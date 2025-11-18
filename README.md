@@ -15,5 +15,5 @@ Predict home prices using Python and Linear Regression with the California Housi
 - Visualization of Predictions
 
 ## Inspiration
-Inspired by the tutorial from Codédex (2024). All code and analysis are my own.
+Inspired by the tutorial from [Codédex (2024)](https://www.codedex.io/projects/predict-home-prices-with-python-and-linear-regression). All code and analysis are my own.
 
